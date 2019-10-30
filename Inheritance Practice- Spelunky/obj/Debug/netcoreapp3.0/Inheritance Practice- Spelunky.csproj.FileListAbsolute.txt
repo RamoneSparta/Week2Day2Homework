@@ -9,3 +9,14 @@ C:\Users\Ramone Nelson\Engineering45\Week2\Day1\Inheritance\Inheritance Practice
 C:\Users\Ramone Nelson\Engineering45\Week2\Day1\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.AssemblyInfo.cs
 C:\Users\Ramone Nelson\Engineering45\Week2\Day1\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.dll
 C:\Users\Ramone Nelson\Engineering45\Week2\Day1\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.pdb
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\bin\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.exe
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\bin\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.deps.json
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\bin\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.runtimeconfig.json
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\bin\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.runtimeconfig.dev.json
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\bin\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.dll
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\bin\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.pdb
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.csprojAssemblyReference.cache
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.AssemblyInfoInputs.cache
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.AssemblyInfo.cs
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.dll
+C:\Users\Ramone Nelson\Engineering45\Week2\Day2\Homework_W2_D2\Inheritance\Inheritance Practice- Spelunky\Inheritance Practice- Spelunky\obj\Debug\netcoreapp3.0\Inheritance Practice- Spelunky.pdb
